@@ -1,0 +1,21 @@
+# Java / Spring Boot
+target/
+.gradle/
+.settings/
+.classpath
+.project
+*.class
+*.jar
+*.war
+
+# React / Node / Frontend
+node_modules/
+dist/
+.vite/
+.output/
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
